@@ -1,0 +1,4 @@
+Schedule and deliverable:
+    Interaction system between player vs enemy- Wednesday by 8pm ( estimate 3 hours)
+    Attacking + Jumping animation -Wednesday by 12pm  (estimate 2hours)
+    Enemies get knocked back + lose health when hit  - Wednesday by 12pm (estimate 2hours)
