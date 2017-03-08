@@ -1,0 +1,4 @@
+Schedule and deliverable:
+
+    design dwarf model-- Mon by 12pm (estimate: 3 hr)
+    Level Design -- Wed by 5pm (estimate: 3-4 hrs)
