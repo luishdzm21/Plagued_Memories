@@ -1,0 +1,13 @@
+
+MASTER LIST OF THINGS TODO:
+
+1. 2 additional AI types
+  i. We have the A* pathfinding system already
+  ii. ???
+  iii. ???
+2. Implement the item system
+  i. environmental interations
+3. Add GUI
+4. Research and implement puzzles
+5. Fine tune the combat system(so it actually kinda works)
+  i. probably change the way the character actually moves(actual WADS, no rotation)
