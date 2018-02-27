@@ -1,3 +1,0 @@
-Schedule and deliverable:
-          inventory system -- (~5 hours)
-          environment interactivity -- (~2 hours)
